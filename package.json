@@ -1,0 +1,15 @@
+{
+    "name": "emoji-parser",
+    "version": "0.1.1",
+    "author": "kurokky <blacktree0228@gmail.com>",
+    "description": "A clone...ish of the old https://github.com/frissdiegurke/emoji-parser-bower that got removed.",
+    "repository": {
+        "type": "git", 
+        "url": "git@github.com:kurokky/emoji-parser-bower.git"
+    },
+    "devDependencies": {
+        "async": "",
+        "request": ""
+    },
+    "main": "main.min.js"
+}
